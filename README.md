@@ -178,5 +178,3 @@ Please ensure that your contributions adhere to the project's coding standards a
 ---
 
 Feel free to reach out for any questions or support!
-
-```
